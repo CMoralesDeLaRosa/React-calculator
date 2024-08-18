@@ -1,0 +1,12 @@
+.last-result {
+  width: 300px;
+}
+
+.last-result h4 {
+  text-align: center;
+}
+
+.results-list {
+  width: 300px;
+  flex-wrap: wrap;
+}
